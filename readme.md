@@ -26,9 +26,8 @@ This app has a flashcard with a question on the front and an answer on the back.
 This app has a flashcard with a question on the front and an answer on the back. The user can toggle between the question and answer. The user can also choose between multiple choice options. If they choose the right answer, the question will flip to the answer. The user can also change the question and answer on the flashcard.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/sbwoodberry/Flashcards/blob/master/Flashcard_Tutorial2.gif?raw=true" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
